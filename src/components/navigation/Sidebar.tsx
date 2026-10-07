@@ -60,10 +60,10 @@ export const Sidebar: React.FC = () => {
             border: '1px solid rgba(6,182,212,0.15)'
           }}>
           <div className="font-semibold text-white">Samar Khlifi</div>
-          <div className="text-[11px] mt-0.5" style={{ color: '#94a3b8' }}>Encadrement: Dr. Hakim Gabtni</div>
+          <div className="text-[11px] mt-0.5" style={{ color: '#94a3b8' }}>Encadrement: Pr. Hakim Gabtni</div>
           <div className="flex items-center gap-1.5 mt-2">
             <div className="w-1.5 h-1.5 rounded-full bg-emerald-400 animate-pulse" />
-            <span className="text-[10px] text-emerald-400 font-medium">En cours • 2024–2027</span>
+            <span className="text-[10px] text-emerald-400 font-medium">En cours • 2027–2030</span>
           </div>
         </div>
       </div>
